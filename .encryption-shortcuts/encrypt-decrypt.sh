@@ -7,7 +7,7 @@
 # reviewed, edited, and revised the language to their own liking and takes
 # ultimate responsibility for the content of this publication.
 #-----------------------------------------------------------
-# get sources: https://github.com/jmswycode/encryption-shortcut 
+# get sources: https://github.com/jmswycode/encryption-shortcut
 #-----------------------------------------------------------
 
 # Setting password, number of iterations, and whether ID is used
