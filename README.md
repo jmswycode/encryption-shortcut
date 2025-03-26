@@ -1,4 +1,4 @@
-<h1 align="center">Encrypting Text Using Keyboard Shortcuts: Quickly Hiding Messages</h1>
+<h2 align="center">Encrypting Text Using Keyboard Shortcuts: Quickly Hiding Messages</h2>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
@@ -6,9 +6,12 @@
 [![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-2F2F2F?logo=gnu-bash&logoColor=white)](#)
 
+<!-- <p align="center">Preview</p> -->
+<p align="center">
+  <img src="preview/giphy.gif" alt="Preview GIF" width="auto">
+</p>
 
-## 📌 Deskripsi
-Jelaskan secara singkat proyek Anda, apa fungsinya, dan teknologi yang digunakan.
+
 
 ## 📂 Struktur Proyek
 ```
