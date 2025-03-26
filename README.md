@@ -1,9 +1,10 @@
 # 🚀 Nama Proyek Anda  
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux)
+![Lubuntu](https://img.shields.io/badge/Lubuntu-0183C6?style=for-the-badge&logo=lubuntu)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl)
 
 📌 **Deskripsi Singkat**  
 Jelaskan secara ringkas tentang proyek Anda, fungsinya, serta teknologi yang digunakan.
