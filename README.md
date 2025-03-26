@@ -28,6 +28,11 @@
     <img src="https://img.shields.io/badge/Download-quick--install.sh-blue?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/jmswycode/encryption-shortcuts/releases/latest/download/quick-install.sh">
+    <img src="https://img.shields.io/badge/Download-quick--install.sh-blue?style=for-the-badge&logo=download" alt="Download">
+  </a>
+</p>
 
 
 ```
