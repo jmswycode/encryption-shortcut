@@ -2,7 +2,7 @@
 
 
 ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux)
-![Lubuntu](https://img.shields.io/badge/Lubuntu-0183C6?style=for-the-badge&logo=lubuntu)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl)
 
