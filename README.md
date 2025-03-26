@@ -1,11 +1,13 @@
+<div align="center">
 # 🚀 Nama Proyek Anda  
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white)](#)
-[![CLI](https://img.shields.io/badge/Terminal-black?logo=windows-terminal&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-2F2F2F?logo=gnu-bash&logoColor=white)](#)
 
+</div>
 ## 📌 Deskripsi
 Jelaskan secara singkat proyek Anda, apa fungsinya, dan teknologi yang digunakan.
 
