@@ -1,4 +1,4 @@
-<h2 align="center">Encrypting Text Using Keyboard Shortcuts: Quickly Hiding Messages</h2>
+<h1 align="center">Encrypting Text Using Keyboard Shortcuts: Quickly Hiding Messages</h1>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
