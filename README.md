@@ -5,6 +5,7 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-2F2F2F?logo=gnu-bash&logoColor=white)](#)
+<!--  [![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-3DA639?logo=opensourceinitiative&logoColor=white&labelColor=2C2C2C)](#) -->
 
 <!-- <p align="center">Preview</p> -->
 <p align="center">
