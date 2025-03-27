@@ -24,7 +24,7 @@
 ### 📂 Quick Installation
 <!--  [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=download)](https://github.com/user/repository/releases/latest) -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/jmswycode/encryption-shortcuts/main/quick-install.sh?raw=true">
+  <a href="https://github.com/jmswycode/encryption-shortcuts/blob/main/quick-install.sh">
     <img src="https://img.shields.io/badge/Download-quick--install.sh-blue?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>
