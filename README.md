@@ -4,14 +4,14 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white)](#)
+[![X11](https://img.shields.io/badge/X11-Window%20System-FF6600?logo=x.org&logoColor=white)](#)
+[![Wayland](https://img.shields.io/badge/Wayland-Display%20Server-1793D1?logo=wayland&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-5A5A5A?logo=gnu-bash&logoColor=white)](#)
 [![APT](https://img.shields.io/badge/APT-Advanced%20Package%20Tool-336791?logo=debian&logoColor=white)](#)
 [![xclip](https://img.shields.io/badge/xclip-clipboard-blue)](#)
 [![wl-clipboard](https://img.shields.io/badge/wl--clipboard-Wayland%20Clipboard-6C9EF8)](#)
 [![xdotool](https://img.shields.io/badge/xdotool-automation-yellow)](#)
 [![libnotify](https://img.shields.io/badge/libnotify-notifications-orange)](#)
-[![X11](https://img.shields.io/badge/X11-Window%20System-FF6600?logo=x.org&logoColor=white)](#)
-[![Wayland](https://img.shields.io/badge/Wayland-Display%20Server-1793D1?logo=wayland&logoColor=white)](#)
 [![Xbindkeys](https://img.shields.io/badge/Xbindkeys-0277BD?logo=gnu&logoColor=white)](https://www.nongnu.org/xbindkeys/)
 
 <!-- [![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-3DA639?logo=opensourceinitiative&logoColor=white&labelColor=5A5A5A)](#) -->
