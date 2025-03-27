@@ -14,11 +14,6 @@
 [![Wayland](https://img.shields.io/badge/Wayland-Display%20Server-1793D1?logo=wayland&logoColor=white)](#)
 <!-- [![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-3DA639?logo=opensourceinitiative&logoColor=white&labelColor=5A5A5A)](#) -->
 
-![More](https://img.shields.io/badge/->__-2D2F34?)
-
-[![More](https://img.shields.io/badge/->__-2D2F34?borderRadius=5)](#)
-
-
 <!-- <p align="center">Preview</p> -->
 <p align="center">
   <img src="preview/giphy.gif" alt="Preview GIF" width="auto">
@@ -26,7 +21,8 @@
 
 
 
-### 📂 Quick Installation
+### [![More](https://img.shields.io/badge/->__-2D2F34?)](#) Quick Installation 
+
 <!--  [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=download)](https://github.com/user/repository/releases/latest) -->
 <p align="center">
   <a href="https://github.com/jmswycode/encryption-shortcuts/blob/main/quick-install.sh">
