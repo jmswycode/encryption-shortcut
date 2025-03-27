@@ -30,14 +30,21 @@
   </a>
 </p>
 
+<p> 🚌 </p>
 
 ```
-📁 proyek-anda/
-├── 📂 src/
-├── 📂 docs/
-├── 📂 tests/
-├── README.md
-└── LICENSE
+📁 ~/Downloads
+└── qucik-install.sh
+```
+<p> Step 1: Open your terminal and paste this </p>
+
+```
+chmod +x qucik-install.sh
+```
+<p> Step 2: </p>
+
+```
+bash qucik-install.sh
 ```
 
 ## 🔧 Instalasi
