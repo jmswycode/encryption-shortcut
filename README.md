@@ -3,6 +3,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-3DA639?logo=opensourceinitiative&logoColor=white&labelColor=5A5A5A)](#) 
 [![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white)](#)
 [![X11](https://img.shields.io/badge/X11-Window%20System-FF6600?logo=x.org&logoColor=white)](#)
 [![Wayland](https://img.shields.io/badge/Wayland-Display%20Server-1793D1?logo=wayland&logoColor=white)](#)
@@ -14,7 +15,6 @@
 [![libnotify](https://img.shields.io/badge/libnotify-notifications-orange)](#)
 [![Xbindkeys](https://img.shields.io/badge/Xbindkeys-0277BD?logo=gnu&logoColor=white)](https://www.nongnu.org/xbindkeys/)
 
-<!-- [![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-3DA639?logo=opensourceinitiative&logoColor=white&labelColor=5A5A5A)](#) -->
 
 <!-- <p align="center">Preview</p> -->
 
@@ -22,13 +22,14 @@
   <img src="preview/giphy.gif" alt="Preview GIF" width="auto">
 </p>
 
+---  
+
 ## [![More](https://img.shields.io/badge/->__-2D2F34?)](#) Quick Installation 
 
 <!--  [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=download)](https://github.com/user/repository/releases/latest) -->
 
-<p> skirp quick-install.sh untuk mengunduh paket dan mengkonfigurasi pemasangan dengan cepat dan pintar.
-quick-install.sh dimaksudkan untuk zero knowlage, atau seseorang yang memulai dari mengunduh repository ini tanpa harus mengetik terlalu banyak di command line. 
-</p>
+  **quick-install.sh** is designed to quickly and smarts download packages and configure the installation. This script is intended for zero-knowledge users or those who are starting by downloading this repository, so they don’t have to type too many commands in the Terminal.
+
 
 <p align="center">
   <a href="https://github.com/jmswycode/encryption-shortcuts/blob/main/quick-install.sh">
@@ -36,46 +37,78 @@ quick-install.sh dimaksudkan untuk zero knowlage, atau seseorang yang memulai da
   </a>
 </p>
 
+
 ```sh
-# jika sudah di download
-# put 'qucik-install.sh' any folder.
-# or open your terminal yang ada file tadi.
+# Once downloaded  
+# Put `quick-install.sh` in any folder.  
+# Open your terminal in the folder where the file is located.
 
 ~$ cd Downloads
 
 📁 ~/Downloads
 └── 📜 qucik-install.sh
 ```
-<p> Step 1: Beri izin file </p>
 
+---  
+
+## Command-line utility
+Follow these steps to run the installation script.
+
+1. Make the script executable.
+   ```bash
+   chmod +x qucik-install.sh
+   ```  
+
+2. Run the script with bash or `./`
+   ```bash
+   bash qucik-install.sh
+   ```  
+**Note:** If the script requires sudo access, it is needed for installing APT packages.
+
+--- 
+## 🚀 How to Use  
+
+1. **Encrypt a Message:**  
+   - Type the message you want to send.  
+   - Select the text you want to encrypt and press `CTRL + SHIFT + G`.  
+
+2. **Decrypt a Message:**  
+   - Select the encrypted text you want to decrypt and press `CTRL + SHIFT + R`.  
+
+3. **Decrypting a Message from a Friend:**  
+   - If the encrypted text was sent by a friend, copy and paste it into the text area first.  
+   - Then press `CTRL + SHIFT + G` to view the original message.  
+
+### 🔧 Configuration  
+To change the encryption password, iterations, or disable ID, edit the file located at:  
+`~/.encryption-shortcuts/encdec_shortcuts.sh`  
+
+```bash
+# Setting password, number of iterations, and whether ID is used
+PASSWORD="123"       # Change this to your password  
+ITERATIONS=100000    # Number of iterations for encryption (default 10000)  
+ID_OPTION=""         # Leave empty "" to include ID, set to "OFF" to remove ID  
 ```
-chmod +x qucik-install.sh
-```
-<p> Step 2: Menjalankan instalasi </p>
 
-```
-bash qucik-install.sh
-```
+### 🎛 Changing Shortcut Keys  
+To modify the keyboard shortcuts, edit the `~/.xbindkeysrc` file:  
 
-## 🔧 Instalasi
-```sh
-# Clone repositori
-$ git clone https://github.com/username/repository.git
+```bash
+"bash ~/.encryption-shortcuts/encdec_shortcuts.sh encrypt"
+  Control+Shift+E
 
-# Masuk ke direktori proyek
-$ cd repository
-
-# Instal dependensi (jika ada)
-$ ./install.sh
+"bash ~/.encryption-shortcuts/encdec_shortcuts.sh decrypt"
+  Control+Shift+G
 ```
 
-## 🚀 Cara Penggunaan
-```sh
-$ ./run.sh
+After making changes, restart `xbindkeys` for them to take effect:  
+```bash
+killall xbindkeys && xbindkeys
 ```
+---  
 
-## 🤝 Kontribusi
-Jika ingin berkontribusi, silakan buat Pull Request atau hubungi saya melalui issue.
+## 🤝 Contribution  
+If you want to contribute, feel free to create a Pull Request or contact me through an issue.  
 
-## 📜 Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+## 📜 License  
+This project is licensed under the [MIT License](LICENSE).
