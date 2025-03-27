@@ -26,9 +26,8 @@
 
 <!--  [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=download)](https://github.com/user/repository/releases/latest) -->
 
-<p> 
-skirp quick-install.sh untuk mengunduh paket dan mengkonfigurasi pemasangan dengan cepat dan pintar.
-quick-install.sh dimaksudkan untuk zero knowlage, atau seseorang yang memulai dari mengunduh repository ini tanpa harus mengetik terlalu banyak di command line.
+<p> skirp quick-install.sh untuk mengunduh paket dan mengkonfigurasi pemasangan dengan cepat dan pintar.
+quick-install.sh dimaksudkan untuk zero knowlage, atau seseorang yang memulai dari mengunduh repository ini tanpa harus mengetik terlalu banyak di command line. 
 </p>
 
 <p align="center">
@@ -43,8 +42,9 @@ quick-install.sh dimaksudkan untuk zero knowlage, atau seseorang yang memulai da
 # or open your terminal yang ada file tadi.
 
 ~$ cd Downloads
-└── 📁 ~/Downloads
-    └── 📜 qucik-install.sh
+
+📁 ~/Downloads
+└── 📜 qucik-install.sh
 ```
 <p> Step 1: Beri izin file </p>
 
