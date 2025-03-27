@@ -12,6 +12,8 @@
 [![libnotify](https://img.shields.io/badge/libnotify-notifications-orange)](#)
 [![X11](https://img.shields.io/badge/X11-Window%20System-FF6600?logo=x.org&logoColor=white)](#)
 [![Wayland](https://img.shields.io/badge/Wayland-Display%20Server-1793D1?logo=wayland&logoColor=white)](#)
+[![Xbindkeys](https://img.shields.io/badge/Xbindkeys-0277BD?logo=gnu&logoColor=white)](https://www.nongnu.org/xbindkeys/)
+
 <!-- [![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-3DA639?logo=opensourceinitiative&logoColor=white&labelColor=5A5A5A)](#) -->
 
 <!-- <p align="center">Preview</p> -->
