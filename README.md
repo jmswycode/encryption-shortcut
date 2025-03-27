@@ -106,9 +106,9 @@ After making changes, restart `xbindkeys` for them to take effect:
 killall xbindkeys && xbindkeys
 ```
 ---  
-
+<!--
 ## 🤝 Contribution  
 If you want to contribute, feel free to create a Pull Request or contact me through an issue.  
 
 ## 📜 License  
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). -->
