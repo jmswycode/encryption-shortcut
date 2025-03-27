@@ -17,33 +17,42 @@
 <!-- [![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-3DA639?logo=opensourceinitiative&logoColor=white&labelColor=5A5A5A)](#) -->
 
 <!-- <p align="center">Preview</p> -->
+## 
 <p align="center">
   <img src="preview/giphy.gif" alt="Preview GIF" width="auto">
 </p>
 
-
-
-### [![More](https://img.shields.io/badge/->__-2D2F34?)](#) Quick Installation 
+## 
+## [![More](https://img.shields.io/badge/->__-2D2F34?)](#) Quick Installation 
 
 <!--  [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=download)](https://github.com/user/repository/releases/latest) -->
+
+<p> 
+skirp quick-install.sh untuk mengunduh paket dan mengkonfigurasi pemasangan dengan cepat dan pintar.
+quick-install.sh dimaksudkan untuk zero knowlage, atau seseorang yang memulai dari mengunduh repository ini tanpa harus mengetik terlalu banyak di command line.
+</p>
+
 <p align="center">
   <a href="https://github.com/jmswycode/encryption-shortcuts/blob/main/quick-install.sh">
     <img src="https://img.shields.io/badge/Download-quick--install.sh-blue?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>
 
-<p> 🚌 </p>
+```sh
+# jika sudah di download
+# put 'qucik-install.sh' any folder.
+# or open your terminal yang ada file tadi.
 
+~$ cd Downloads
+└── 📁 ~/Downloads
+    └── 📜 qucik-install.sh
 ```
-📁 ~/Downloads
-└── qucik-install.sh
-```
-<p> Step 1: Open your terminal and paste this </p>
+<p> Step 1: Beri izin file </p>
 
 ```
 chmod +x qucik-install.sh
 ```
-<p> Step 2: </p>
+<p> Step 2: Menjalankan instalasi </p>
 
 ```
 bash qucik-install.sh
