@@ -15,7 +15,6 @@
 [![libnotify](https://img.shields.io/badge/libnotify-notifications-orange)](#)
 [![Xbindkeys](https://img.shields.io/badge/Xbindkeys-0277BD?logo=gnu&logoColor=white)](https://www.nongnu.org/xbindkeys/)
 
-
 <!-- <p align="center">Preview</p> -->
 
 <p align="center">
@@ -70,10 +69,10 @@ Follow these steps to run the installation script.
 
 1. **Encrypt a Message:**  
    - Type the message you want to send.  
-   - Select the text you want to encrypt and press `CTRL + SHIFT + G`.  
+   - Select the text you want to encrypt and press `CTRL + SHIFT + Y`.  
 
 2. **Decrypt a Message:**  
-   - Select the encrypted text you want to decrypt and press `CTRL + SHIFT + R`.  
+   - Select the encrypted text you want to decrypt and press `CTRL + SHIFT + G`.  
 
 3. **Decrypting a Message from a Friend:**  
    - If the encrypted text was sent by a friend, copy and paste it into the text area first.  
@@ -95,7 +94,7 @@ To modify the keyboard shortcuts, edit the `~/.xbindkeysrc` file:
 
 ```bash
 "bash ~/.encryption-shortcuts/encdec_shortcuts.sh encrypt"
-  Control+Shift+E
+  Control+Shift+Y
 
 "bash ~/.encryption-shortcuts/encdec_shortcuts.sh decrypt"
   Control+Shift+G
